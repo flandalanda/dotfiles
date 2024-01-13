@@ -1,0 +1,11 @@
+prompt=Search
+allow_images=true
+image_size=32
+lines=10
+dynamic_lines=false
+orientation=vertical
+halign=fill
+content_halign=start
+
+key_expand=Right
+colors=/home/flandalanda/.cache/wal/colors
